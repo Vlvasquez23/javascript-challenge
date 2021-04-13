@@ -6,7 +6,7 @@ var tableData = data;
 
 // Function Build Table
 function buildTable(data){
-    // Start By Clearing Existing Data
+    // Clearing Existing Data
     tbody.html("");
     // Loop Through `data` 
     data.forEach((dataRow) => {
