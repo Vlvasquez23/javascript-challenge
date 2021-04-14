@@ -1,6 +1,6 @@
-# JavaScript Homework - JavaScript and DOM Manipulation
+# JavaScript Homework - `ALIENS-R-REAL`
 
-https://Vlvasquez23.github.io/javascript-challenge/
+https://Vlvasquez23.github.io/javascript-challenge/StarterCode/index.html
 
 ## Background
 
