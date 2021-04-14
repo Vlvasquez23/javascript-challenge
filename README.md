@@ -1,6 +1,6 @@
 # JavaScript Homework - `ALIENS-R-REAL`
 
-https://Vlvasquez23.github.io/javascript-challenge/StarterCode/index.html
+https://vlvasquez23.github.io/javascript-challenge/index.html
 
 ## Background
 
